@@ -13,8 +13,8 @@ O projeto é um simples agente de fluxo de diálogo, implantado nas funções de
 3. Nomeei seu agente para: `cotacao`
 4. Selecione Create.
 5. Vá para Configurações ⚙ > Exportar, na aba de importação > Restaurar do zip.
-Faça upload do arquivo `cotacao.zip` localizado neste repo.
-6. [Install Firebase](https://developers.google.com/actions/dialogflow/deploy-fulfillment)
+6. Faça upload do arquivo `cotacao.zip` localizado neste repo.
+
 
 ## Tecnologias
 1. Node.js
