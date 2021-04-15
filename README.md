@@ -3,7 +3,7 @@
 
 ## Visão Geral
 
-O projeto é um simples agente de fluxo de diálogo, implantado nas funções de nuvem firebase que mostra o uso de fluxo de diálogo, google cloud api de linguagem natural, análise de sentimentos,firebase que através de uma api externa consegue fazer cotações de moedas estrangeiras (USD, EUR, BTC e JPY) convertendo para o real(BRL).
+O projeto é um simples agente de fluxo de diálogo, implantado nas funções de nuvem firebase que mostra o uso de fluxo de diálogo, google cloud api de linguagem natural, análise de sentimentos, firebase que através de uma api externa consegue fazer cotações de moedas estrangeiras (USD, EUR, BTC e JPY) convertendo para o real(BRL).
 
 
 ## Passos para execução
